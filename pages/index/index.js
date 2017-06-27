@@ -1,5 +1,5 @@
 //index.js
-//获取应用实例
+//获取应用实例 采取双大括号的形式嵌入数据 data 为暴露出的数据接口
 var app = getApp()
 Page({
   data: {
